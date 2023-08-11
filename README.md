@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there 👋, I'm Yaswanth Allu</h1>
 <h2 align = "center"> A coding enthusiast from IIT Madras </h2>
-<img alt = "coding image" align = "right" width = "400" src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img alt = "coding image" align = "right" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working along with **Honeywell Perfomance+ team**

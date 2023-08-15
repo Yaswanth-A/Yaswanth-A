@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **ASP.net, Microsoft Azure**
 -  😄 Pronouns: He/His
 
-- 📫 How to reach me **yaswanthallu03gmail.com**
+- 📫 How to reach me: Mail me at **yaswanthallu03gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
